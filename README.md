@@ -20,4 +20,4 @@ Definiując nową wartość graniczną w kodzie.
 Do zadania 3.2.3
 Liczby te możemy zwiększyć za pomocą zwiększania szybkości transmisji, czyli zwiększania formatu ramki.
 
- Dodanie poprawionych zrzutów ekranów z zawartymi widocznymi tekstami w obszarze konsoli szeregowej.
+Dodanie poprawionych zrzutów ekranów z zawartymi widocznymi tekstami w obszarze konsoli szeregowej.
